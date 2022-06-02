@@ -1,10 +1,10 @@
-package com.example.demo;
+package tn.esprit.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TimesheetDevopsApplicationTests {
+class TimesheetApplicationTests {
 
 	@Test
 	void contextLoads() {
